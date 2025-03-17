@@ -35,7 +35,7 @@ Output
 ```
 z = "Fahad" + " Qazi"
 
-# if z is Fahad then print Sahi else Galat
+// if z is Fahad then print Sahi else Galat
 jekadhen (z == "Fahad") {
     dekhaar "Sahi"
 }
@@ -46,4 +46,16 @@ nata {
 Output
 ```
 Galat
+```
+
+- Loops
+```
+x = 1
+
+# while x is less than 10, print x and add 1 to x.
+jesitaeen (x < 10) {
+    dekhaar x
+
+    x = x + 1
+}
 ```
