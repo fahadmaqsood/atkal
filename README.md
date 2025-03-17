@@ -30,3 +30,20 @@ Output
 3
 -1
 ```
+
+- Conditions
+```
+z = "Fahad" + " Qazi"
+
+# if z is Fahad then print Sahi else Galat
+jekadhen (z == "Fahad") {
+    dekhaar "Sahi"
+}
+nata {
+    dekhaar "Galat"
+}
+```
+Output
+```
+Galat
+```
