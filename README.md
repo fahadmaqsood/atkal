@@ -24,3 +24,9 @@ z = x + y
 dekhaar z
 dekhaar x - y
 ```
+Output
+```
+(1,2)
+3
+-1
+```
