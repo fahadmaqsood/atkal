@@ -5,7 +5,7 @@ This was a semester project for the **Compiler Construction** course. I implemen
 ## Features  
 - Custom **Romanized Sindhi syntax** for intuitive programming.  
 - **Lexical analysis, parsing, and execution** via an interpreter.  
-- Supports basic programming constructs like **variables, loops, if-else, comments and string concatination**.  
+- Supports basic programming constructs like **variables, loops, if-else, comments and string concatenation**.  
 - Implements standard **interpreter design techniques**.
 
 ## Usage
