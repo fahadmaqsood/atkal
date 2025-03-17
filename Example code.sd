@@ -1,0 +1,21 @@
+x=1
+
+jesitaeen (x < 10) {
+    dekhaar x
+    x = x + 1
+}
+
+z = "Fahad"
+
+jekadhen (z != "Fahad") {
+    dekhaar "Khuda ja banda"
+} 
+nata {
+    dekhaar "khair aw"
+}
+
+y = 1 + 2 * 3 - 4
+dekhaar y
+
+y = z + " hi"
+dekhaar y
